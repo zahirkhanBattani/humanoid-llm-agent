@@ -72,8 +72,7 @@ humanoid-llm-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone your-repository-link
-cd humanoid-llm-agent
+git clone https://github.com/zahirkhanBattani/humanoid-llm-agent.git
 ```
 
 ### 2. Create a virtual environment
